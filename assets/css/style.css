@@ -10,8 +10,7 @@
   
   .portfolio-items {
       display: flex;
-      flex-wrap: wrap;
-      
+      flex-wrap: wrap;      
   }
   
   .portfolio-items article {
